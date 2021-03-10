@@ -1,33 +1,25 @@
 {
-    "settingsReloadIntervalMinutes": 1,
-    "fullscreen": false,
-    "autoStart": false,
-    "lazyLoadTabs": false,
-    "websites": [
-      {
-        "url": "https://www.patreon.com/kevdev",
-        "duration": 10,
-        "tabReloadIntervalSeconds": 15
-      },
-      {
-        "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
-        "duration": 10,
-        "tabReloadIntervalSeconds": 15
-      },
-      {
-        "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
-        "duration": 10,
-        "tabReloadIntervalSeconds": 200
-      },
-      {
-        "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-        "duration": 10,
-        "tabReloadIntervalSeconds": 10
-      },
-      {
-        "url": "https://ie.linkedin.com/in/kevinsheedy",
-        "duration": 10,
-        "tabReloadIntervalSeconds": 15
-      }
-    ]
-  }
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/xxUaB",
+      "duration": 6000000,
+      "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/AFWaB",
+      "duration": 6000000,
+      "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/oLbcB",
+      "duration": 6000000,
+      "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/oVicB",
+      "duration": 6000000,
+      "tabReloadIntervalSeconds": 3600
