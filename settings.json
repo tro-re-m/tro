@@ -5,36 +5,11 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://datastudio.google.com/u/1/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/T8q7B",
+      "url": "https://docs.google.com/spreadsheets/d/1j6dH3yU_-c_6PID_iKZyhtCs8DuSgNl_LBt73PIA0tE/edit?usp=sharing",
       "duration": 6000000,
       "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "url": "https://datastudio.google.com/u/1/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/ZUq7B",
-      "duration": 6000000,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "url": "https://datastudio.google.com/u/1/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/b8G6B",
-      "duration": 6000000,
-      "tabReloadIntervalSeconds": 900
-    },
-    {
-      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/AFWaB",
-      "duration": 6000000,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/oLbcB",
-      "duration": 6000000,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "url": "https://datastudio.google.com/u/0/reporting/18lXTZGm1Orj5zlK_-6cyJKVxoxBZ7S9p/page/oVicB",
-      "duration": 6000000,
-      "tabReloadIntervalSeconds": 1800
-      }
-    ]
-  }
+    }
+  ]
+}
       
       
